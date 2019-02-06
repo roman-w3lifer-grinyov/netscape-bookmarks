@@ -17,11 +17,11 @@ class NetscapeBookmarks
      * Example of input array:
      * ``` php
      * [
-     *     'Link name' => 'Link URL',
-     *     'Link name' => 'Link URL',
+     *     'Bookmark name 1' => 'Bookmark URL 1',
+     *     'Bookmark name 2' => 'Bookmark URL 2',
      *     'Directory name' => [
-     *         'Link name' => 'Link URL',
-     *         'Link name' => 'Link URL',
+     *         'Bookmark name 3' => 'Bookmark URL 3',
+     *         'Bookmark name 4' => 'Bookmark URL 4',
      *     ],
      * ]
      * ```
