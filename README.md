@@ -1,4 +1,4 @@
-# Netscape Bookmarks
+# netscape-bookmarks
 
 - [Installation](#installation)
 - [Usage](#usage)
