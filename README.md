@@ -31,3 +31,5 @@ echo new NetscapeBookmarks([
 // </DL><p>
 // </DL><p>
 ```
+
+Demo: https://github.com/w3lifer/laravel-doc-bookmarks
